@@ -14,9 +14,19 @@ music is necessary for technical development. The goal here is to make the
 learning process so fast that we aim to allocate 10% of practice time to
 technical work and 90% to making music.
 
+[The methods involve a collection of mental and physical skills which are first explained in some detail, and then expounded upon in later sections. It is up to individual student to actually try out these skills and to practice and develop them.  These skills are the foundation upon which efficient and effective piano practice is built.  The result of acquiring these skills will be to have good "technique" - easeful and comprehensive command of the keyboard. With good technique a player can readily produce any sort of music and learning new pieces becomes easier and less time-consuming. ]
+
+[This definitiion of technique is a first draft. The author uses the terms 'technical' and 'technique' to represent a variety of related concepts which I hope to clarify as we go along.]
+
+["Making music" here refers to the ability to produce passages which are musical-sounding, as opposed to robotic-sounding. Making music involves two related capabilities. The first is an emotional and intellectual sensitivity to the piece being played, the audience, and one's own intentions while playing. The second is the technical skill and ability to execute one's musical intentions in real time, that is, to play well.  This is clearly a mental capability but it is expressed physically, so good technique involves both mental and physical skills and the two interpenetrate each other.]
+
 How do musicians “make music”? Whether we compose music or play an instrument,
 all music must originate in the artist’s brain. We can certainly shut our brains
-off and play the piano from rote memory after enough practice. That is
+off and play the piano from rote memory after enough practice. 
+
+[A bit of an exaggeration; a person in a coma cannot produce music. What the author means is we can disengage our emotional and intellectual sensitivity and simply produce a series of notes, like a computer playing back a score.]
+
+That is
 absolutely the wrong way to make music because the level of the resulting music
 will be low. Many pianists have the misconception that the expensive, huge,
 concert grand produces its own sound with its characteristic music and therefore
@@ -25,7 +35,9 @@ far more complex than, and superior to, any mechanical contraption in terms of
 musicality. The brain doesn’t have the limitations of wood, felt, and metal.
 Therefore, it is more important to train the brain than the finger muscles,
 especially because any finger movement must originate as a nerve impulse in the
-brain. The answer to the above question is what we shall call *Mental Play (MP)*
+brain. 
+
+The answer to the above question is what we shall call *Mental Play (MP)*
 in this book. MP is simply the process of imagining the music in your mind, or
 even actually playing it on an imaginary piano. We shall see that MP controls
 practically everything we do in music, from the learning process (technique) to
